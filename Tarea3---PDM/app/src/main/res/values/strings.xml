@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Tarea3</string>
+    <string name="titulo_tienda">Tienda para Computólogos</string>
+    <string name="subtitulo_registro">Suscríbete para recibir novedades sobre nuestros productos</string>
+    <string name="hint_nombre">Nombre de usuario</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="pregunta_interes">¿Qué te interesa más en estos momentos?</string>
+    <string name="opcion_videojuegos">Videojuegos</string>
+    <string name="opcion_figuras">Figuras</string>
+    <string name="opcion_peliculas">Comics</string>
+    <string name="opcion_libros">Libros</string>
+    <string name="check_notificaciones">Deseo recibir notificaciones</string>
+    <string name="boton_registrarse">REGISTRARSE</string>
+    <string name="boton_entrar_tienda">ENTRAR A LA TIENDA</string>
+    <string name="titulo_catalogo">Catálogo de nuestros productos</string>
+    <string name="producto_1">Figura de Darth Vader</string>
+    <string name="precio_1">$1,500 MXN</string>
+    <string name="producto_2">Figura de Iron Man</string>
+    <string name="precio_2">$1,200 MXN</string>
+    <string name="producto_3">Videojuego. Dark Souls</string>
+    <string name="precio_3">$750 MXN</string>
+    <string name="producto_4">Videojuego. The Last of Us</string>
+    <string name="precio_4">$650 MXN</string>
+    <string name="producto_5">Comic. Batman: The Killing Joke</string>
+    <string name="precio_5">$500 MXN</string>
+    <string name="producto_6">Comic. The Walking Dead: This Sorrowful Life </string>
+    <string name="precio_6">$500 MXN</string>
+    <string name="producto_7">Libro. Choque de Reyes. Canción de Hielo y Fuego 2.</string>
+    <string name="precio_7">$350 MXN</string>
+    <string name="producto_8">Libro. El Último Deseo. La Saga de Geralt de Rivia.</string>
+    <string name="precio_8">$250 MXN</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+</resources>
